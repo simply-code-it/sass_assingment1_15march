@@ -1,0 +1,18 @@
+$primary-color:#3498db;
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: $primary-color;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid $primary-color;
+}
+
+.heading{
+    color: $primary-color;
+}
